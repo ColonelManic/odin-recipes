@@ -1,0 +1,38 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+h1 {
+    color: white;
+    font-size: 36px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    border-top: dotted;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+p {
+    font-size: 25px;
+}
+li {
+    font-size: 25px;
+}
+
+ol {
+    font-size: 25px;
+    margin-left: 30px;
+}

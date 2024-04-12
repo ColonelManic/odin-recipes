@@ -1,0 +1,40 @@
+* {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+.card {
+    background-color: rgb(77, 2, 2);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 5px;
+    padding-top: 45px;
+
+}
+
+ul {
+    list-style: none;
+    background-color: rgb(77, 2, 2);
+    padding: 0px
+}
+
+li {
+    padding: 0px;
+    background-color: rgb(77, 2, 2);
+}
+
+a {
+    background-color: rgb(77, 2, 2);
+}
+
+.countries {
+    background-color: rgb(77, 2, 2);
+}
+
+
